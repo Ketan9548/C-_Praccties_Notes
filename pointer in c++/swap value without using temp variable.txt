@@ -1,0 +1,10 @@
+steps: 
+1. a= 5+10;
+   a= 15;
+2. b= a-b;
+   b= 15-10 = 5;
+3. a= a-b;
+   a= 15-5 = 10;
+now we have to print the a and b value :
+a = 10;
+b = 5;
